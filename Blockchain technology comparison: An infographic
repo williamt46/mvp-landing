@@ -324,7 +324,7 @@
                 <!-- QR Code Container -->
                 <div class="flex-shrink-0 bg-white p-4 rounded-xl shadow-sm border border-indigo-100">
                    
-                    <img src="./assets/images/usersurveyQR.png" 
+                    <img src="./images/usersurveyQR.png" 
                          onerror="this.onerror=null; this.src='https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=ExampleSurveyLink';" 
                          alt="Scan to take survey" 
                          class="w-32 h-32 md:w-40 md:h-40 object-contain">
